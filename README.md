@@ -2,9 +2,24 @@
   
 # Hi, I am Maria Vidal 
 
-Computer Science and Engineering student at Instituto Superior Técnico
+### Computer Science and Engineering student at Instituto Superior Técnico
 
 </div>
+
+<p>
+  Find me on
+  <a href="http://www.linkedin.com/in/maria-carolina-vidal" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" style="vertical-align: middle;">
+  </a>  
+</p>
+<p>
+  Check out my
+   <a href="https://docs.google.com/document/d/1_z_43Gmpiy-fhsuyhUu8wCWXeLnI-3FwPiuFG_MG1so/edit?usp=sharing" target="_blank" style="text-decoration: none; font-size: 32px; font-weight: bold; vertical-align: middle;">
+    📄 CV
+  </a>
+  
+</p>
+
 
 ---
 
