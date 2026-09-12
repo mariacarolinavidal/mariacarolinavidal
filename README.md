@@ -14,7 +14,7 @@
 </p>
 <p>
   Check out my
-   <a href="https://docs.google.com/document/d/1_z_43Gmpiy-fhsuyhUu8wCWXeLnI-3FwPiuFG_MG1so/edit?usp=sharing" target="_blank" style="text-decoration: none; font-size: 32px; font-weight: bold; vertical-align: middle;">
+   <a href="https://docs.google.com/document/d/1_z_43Gmpiy-fhsuyhUu8wCWXeLnI-3FwPiuFG_MG1so/export?format=pdf" target="_blank" style="text-decoration: none; font-size: 32px; font-weight: bold; vertical-align: middle;">
     📄 CV
   </a>
   
